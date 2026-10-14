@@ -1,0 +1,10 @@
+# Build artifacts
+*.o
+my_shell
+my_shell.exe
+
+# Shell history file
+.my_shell_history
+
+# Editor settings
+.vscode/
